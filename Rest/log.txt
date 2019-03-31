@@ -1,0 +1,25 @@
+Output:
+-------
+
+Starting new simulation on Sat 05. May 2018 at 19:57:14:144
+
+creating netlist... done.
+Starting C:/Users/samfl/Desktop/qucs-0.0.19-win32-mingw482-asco-freehdl-adms/bin/qucsator.exe
+
+project location: 
+modules to load: 0
+factorycreate.size() is 0
+factorycreate has registered:
+parsing netlist...
+checking netlist...
+
+Errors occurred during simulation on Sat 05. May 2018 at 19:57:14:191
+Aborted.
+
+
+
+Errors and Warnings:
+--------------------
+
+checker error, a .DC action is required for this circuit definition (accounted 1 non-linearities)
+
